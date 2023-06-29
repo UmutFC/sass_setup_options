@@ -1,0 +1,8 @@
+1- Ctrl + é" for terminal
+2- npm --version to see if npm installed
+3- npm init -y for package and -y is for answering questions by default
+4- Ctrl + L for clearing terminal
+5- npm install node-sass for installing node sass
+6- turn ' "test": "echo \"Error: no test specified\" && exit 1" ' into         ' "sass": "node-sass -w scss/ -o dist/css --recursive" ' =>
+=> run: "node-sass" --w: watch flag for constantly watch folder called "scss" and -o: output to "dist/css"
+7- npm run sass "it will constantly watch 'scss' folder

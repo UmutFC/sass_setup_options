@@ -1,0 +1,7 @@
+1- Open extention tab and add Live Sass Compiler
+2- Go to settings and Select Live Sass and under compiler config click on settings.json then add the line:
+ ' "liveSassCompile.settings.formats": [{
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "./css"
+    }] '
