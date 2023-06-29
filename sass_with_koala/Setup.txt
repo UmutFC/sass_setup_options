@@ -1,0 +1,1 @@
+1- Install app called koala app then direct the sass file you created from inside of the program then right click and set output path for watching css file
